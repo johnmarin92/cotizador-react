@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cotizador-react/static/css/main.f150796c.chunk.css",
+    "main.js": "/cotizador-react/static/js/main.3dd96c20.chunk.js",
+    "main.js.map": "/cotizador-react/static/js/main.3dd96c20.chunk.js.map",
+    "runtime-main.js": "/cotizador-react/static/js/runtime-main.f349ec21.js",
+    "runtime-main.js.map": "/cotizador-react/static/js/runtime-main.f349ec21.js.map",
+    "static/js/2.94534666.chunk.js": "/cotizador-react/static/js/2.94534666.chunk.js",
+    "static/js/2.94534666.chunk.js.map": "/cotizador-react/static/js/2.94534666.chunk.js.map",
+    "index.html": "/cotizador-react/index.html",
+    "static/css/main.f150796c.chunk.css.map": "/cotizador-react/static/css/main.f150796c.chunk.css.map",
+    "static/js/2.94534666.chunk.js.LICENSE.txt": "/cotizador-react/static/js/2.94534666.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f349ec21.js",
+    "static/js/2.94534666.chunk.js",
+    "static/css/main.f150796c.chunk.css",
+    "static/js/main.3dd96c20.chunk.js"
+  ]
+}
